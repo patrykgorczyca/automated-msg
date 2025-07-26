@@ -1,49 +1,45 @@
 # **💻 EXPERIENCED SCRIPTER FOR HIRE 💻** # 
 
-Hey! I’m a Roblox developer with 3+ years of experience scripting in Roblox Lua. I’ve worked on a wide range of games and always deliver clean, optimized, and efficient code. I always get the job done fast ✅
+Hello! I’m a Roblox developer with 3+ years of experience scripting in Roblox Lua. I’ve worked on a wide variety of games and my code is consistently clear and effective. I always get the job done in a reasonable time period ⏱️
 
-🕐 Timezone: GMT+1
-🛠️ I take both short commissions and long-term jobs
+My timezone: GMT+1
+I take both short commissions and long-term jobs
 
-💻 I Can Script:
+**I can script:**
 
 ⚔️ Tools & weapons
 💾 Data saving
 🎮 Game mechanics
 🛡️ Anticheats
-📜 Advanced admin systems
+🧑‍💻 Advanced admin systems
 🧠 Pathfinding AI
 📦 Inventory & pet systems
 🎲 Chance mechanics
-🎥 Cutscenes & animation logic
+📹 Cutscenes & animation logic
 🔊 Music/playlist scripts
-🎛️ GUI/VFX integration
-🔁 Round systems
+🛠️ GUI and VFX integration
+🧟 Round systems
 🖱️ Raycasting
 💸 Donation game systems
-📱 Loading screens
-…and more!
+⌛ Loading screens
+
+and more!
 
 
 🔧 I can also fix or optimize existing scripts
 
-**🚫 I DON'T TAKE %** UNLESS YOUR GAME HAS STABLE REVENUE
+**🚫 I DO NOT TAKE % 🚫** - UNLESS YOUR GAME HAS DEMONSTRATED CONSISTENT REVENUE
 
  ------------------------------
 
- # **💳 PAYMENT OPTIONS: ** # 
+ # **💳 PAYMENT METHODS: ** # 
 
-**🔹 Short-Term / Commission:**
+- $20+ PayPal
+- Giftcards (Discussed in DMs)
 
-💵 PayPal ($20+)
-🎁 Giftcards (DM to discuss)
-💎 Robux (3000+)
+I expect payment per task for long term jobs
 
-**🔹 Long-Term:**
-
-💵 PayPal (per-task, $20+)
-
-💬 DM me with full job details
+DM me with full job details to start working together
 
 
 📎 [**View My Portfolio**](https://bit.ly/4kmcUok)
