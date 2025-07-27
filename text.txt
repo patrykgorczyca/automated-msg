@@ -1,34 +1,33 @@
 # **💻 EXPERIENCED SCRIPTER FOR HIRE 💻** # 
 
-Hello! I’m a Roblox developer with 3+ years of experience scripting in Roblox Lua. I’ve worked on a wide variety of games and my code is consistently clear and effective. I always get the job done in a reasonable time period ⏱️
+Hello! I’m a Roblox developer with 3+ years of experience scripting in Roblox Lua. I’ve worked on a wide variety of games and my code is consistently clear and effective. I always get the job done in a reasonable time period/
 
-My timezone: GMT+1
+My time-zone isGMT+1
 I take both short commissions and long-term jobs
 
 **I can script:**
 
-⚔️ Tools & weapons
-💾 Data saving
-🎮 Game mechanics
-🛡️ Anticheats
-🧑‍💻 Advanced admin systems
-🧠 Pathfinding AI
-📦 Inventory & pet systems
-🎲 Chance mechanics
-📹 Cutscenes & animation logic
-🔊 Music/playlist scripts
-🛠️ GUI and VFX integration
-🧟 Round systems
-🖱️ Raycasting
-💸 Donation game systems
-⌛ Loading screens
-
+- ⚔️ Tools & weapons
+- 💾 Data saving
+- 🎮 Game mechanics
+- 🛡️ Anti-cheats
+- 🧑‍💻 Advanced admin systems
+- 🧠 Pathfinding AI
+- 📦 Inventory & pet systems
+- 🎲 Chance mechanics
+- 📹 Cutscenes & animation logic
+- 🔊 Music/playlist scripts
+- 🛠️ GUI & VFX integration
+- 🧟 Round systems
+- 🖱️ Raycasting
+- 💸 Donation game systems
+- ⌛ Loading screens
 and more!
 
 
-🔧 I can also fix or optimize existing scripts
+I can also fix or optimize existing scripts
 
-**🚫 I DO NOT TAKE % 🚫** - UNLESS YOUR GAME HAS DEMONSTRATED CONSISTENT REVENUE
+**🚫 I DO NOT TAKE % 🚫** UNLESS YOUR GAME HAS DEMONSTRATED CONSISTENT REVENUE
 
  ------------------------------
 
